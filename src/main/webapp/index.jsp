@@ -66,7 +66,7 @@ function MM_validateForm() { //v4.0
         <th colspan="2" scope="col"><div class="box1">
           <!--marquee-->
             <h2><font color="#FF0000">Online Bank corp</font></h2>
-			 <h1><font color="#000000">Serving you always</font></h1>
+			 <h1><font color="#000000">Serving you always !</font></h1>
             <!--/marquee-->
         </div></th>
         </tr>
